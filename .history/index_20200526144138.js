@@ -1,3 +1,5 @@
+// Write your code here
+
 class Breakfast {
     constructor(food, drink) {
         this.food = food;
@@ -15,7 +17,9 @@ class Lunch {
 
 
 class Dinner {
-    constructor(salad, soup, entree, _desert){
+    constructor(salad, soup, entree, _desert)
+    {
+//   newdinner = new Dinner('balsamic salad', 'consomme', 'filet mignon', 'cheesecake')
     this.salad = salad
     this.soup = soup
     this.entree = entree
