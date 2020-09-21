@@ -18,6 +18,8 @@ class Dinner {
     this.salad = salad;
     this.soup = soup;
     this.entree = entree;
+
+    //intended to be a private property _
     this._dessert = dessert;
     }
 }
