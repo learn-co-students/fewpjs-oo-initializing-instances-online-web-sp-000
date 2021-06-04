@@ -23,10 +23,3 @@ class Dinner {
     this._dessert = dessert;
   }
 }
-
-let thanksgivingDinner = new Dinner(
-  "Balsamic salad",
-  "Chowder",
-  "Turkey",
-  "Pumpkin Pie"
-);
